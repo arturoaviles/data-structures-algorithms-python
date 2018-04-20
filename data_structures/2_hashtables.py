@@ -5,7 +5,7 @@ class HashTable:
         self.table = [[] for _ in range(self.size)]
 
     def hashfunction(self, data):
-        return data % self.size
+        return data % self.size # 14 % 10 = 4
 
     def insert(self, data):
         index = self.hashfunction(data)
