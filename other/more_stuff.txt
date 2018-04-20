@@ -1,1 +1,7 @@
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html
+https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm
+https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python/
+https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
+
+https://www.tutorialspoint.com/python/list_extend.htm
+https://www.tutorialspoint.com/python/python_heaps.htm
