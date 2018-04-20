@@ -21,6 +21,7 @@
 - Linkedlists
 - Double-Linkedlists
 - Dequeues
+- Hashmap
 
 ## Other Concepts:
 
